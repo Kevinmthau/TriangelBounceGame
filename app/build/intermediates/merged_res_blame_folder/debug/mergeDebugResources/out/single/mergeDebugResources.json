@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.trianglebounce.game.app-debug-21:/xml_data_extraction_rules.xml.flat",
+        "source": "com.trianglebounce.game.app-main-23:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.trianglebounce.game.app-debug-21:/xml_backup_rules.xml.flat",
+        "source": "com.trianglebounce.game.app-main-23:/xml/backup_rules.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string name="app_name">Triangle Bounce Game</string>
+    <style name="Theme.TriangleBounceGame" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@android:color/holo_blue_bright</item>
+        <item name="colorPrimaryDark">@android:color/holo_blue_dark</item>
+        <item name="colorAccent">@android:color/holo_orange_light</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@android:color/holo_blue_dark</item>
+    </style>
+</resources>

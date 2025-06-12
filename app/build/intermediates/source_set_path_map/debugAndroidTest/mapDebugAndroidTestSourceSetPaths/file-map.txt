@@ -1,0 +1,4 @@
+com.trianglebounce.game.test.app-androidTest-0 /Users/kevinthau/TriangleBounceGame/app/build/generated/res/resValues/androidTest/debug
+com.trianglebounce.game.test.app-mergeDebugAndroidTestResources-1 /Users/kevinthau/TriangleBounceGame/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.trianglebounce.game.test.app-mergeDebugAndroidTestResources-2 /Users/kevinthau/TriangleBounceGame/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.trianglebounce.game.test.app-debugAndroidTest-3 /Users/kevinthau/TriangleBounceGame/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
